@@ -2,6 +2,8 @@
 
 The Micro:bit Posture Corrector is a program for the BBC Micro:bit that will beep if you slouch or you have bad posture.
 
+***Note: This is still a work in progress and does not work in its current state***
+
 ## Instructions
 1. Attach the Micro:bit to your chest and make sure that the Micro USB port is facing upwards
 2. Press the "A"/Left button on the Micro:bit to start the beeping
